@@ -17,7 +17,7 @@ This project explores the application of quantum computing to machine learning p
 ## Technical Implementation
 
 ### Quantum Feature Maps
-- Manual implementation of parameterized quantum circuits
+- Manual implementation of parameterised quantum circuits
 - 4-qubit feature encoding with entangling gates
 - Molecular descriptor mapping to quantum rotation angles
 - Statevector overlap computation for similarity analysis
@@ -32,7 +32,7 @@ This project explores the application of quantum computing to machine learning p
 - Support Vector Machine with precomputed quantum kernels
 - Comprehensive performance benchmarking
 - Statistical analysis and confusion matrix evaluation
-- Professional scientific visualization
+- Professional scientific visualisation
 
 ## Project Structure
 ```
@@ -50,7 +50,7 @@ quantum-ml-molecular-classification/
 - **Qiskit**: Quantum computing framework and circuit simulation
 - **Scikit-learn**: Classical machine learning algorithms and evaluation
 - **NumPy**: Numerical computing and linear algebra
-- **Matplotlib/Seaborn**: Data visualization and scientific plotting
+- **Matplotlib/Seaborn**: Data visualisation and scientific plotting
 
 ### Installation
 ```bash
